@@ -4,7 +4,9 @@ A list of talks I've given and their slides
 | Date              | Title                                    | Event                | Location          |
 |-------------------|------------------------------------------|----------------------|-------------------|
 | 9 August 2017     | Real World Usage Patterns                | NSMeetup             | San Francisco, CA |
+| 7 August 2017     | Behavioural Driven Development           | Prolific Interactive | San Francisco, CA |
 | 10 November 2016  | Giving Better Talks                      | Cocoaheads Melbourne | Melbourne, VIC    |
+| 15 September 2016 | Giving Better Talks                      | Cocoaheads Sydney    | Melbourne, VIC    |
 | 02 November 2016  | Great Apps Take Time                     | Product Of Syd       | Sydney, NSW       |
 | 29 August 2016    | Great Apps Take Time                     | DevWorld 2016        | Melbourne, VIC    |
 | 3 July 2016       | Insights into WatchKit                   | Cocoaheads Sydney    | Sydney, NSW       |
